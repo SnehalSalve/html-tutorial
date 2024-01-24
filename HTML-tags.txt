@@ -1,0 +1,89 @@
+HTML Tags
+<!DOCTYPE html> - Defines the document type and version of HTML being used.
+
+<html> - Root element of an HTML document.
+
+<head> - Contains meta-information about the HTML document.
+
+<title> - Sets the title of the HTML document (appears in the browser's title bar or tab).
+
+<body> - Contains the content of the HTML document.
+
+<h1> to <h6> - Defines headings of different levels (1 being the highest).
+
+<p> - Defines a paragraph.
+
+<a> - Defines a hyperlink, linking to another webpage or resource.
+
+<img> - Embeds an image in the document.
+
+<br> - Creates a line break.
+
+<hr> - Represents a thematic break (horizontal line).
+
+<div> - Defines a division or a section in an HTML document.
+
+<span> - Defines an inline section in an HTML document.
+
+<header> - Represents the header of a document or a section.
+
+<footer> - Represents the footer of a document or a section.
+
+<nav> - Represents a navigation menu.
+
+<article> - Represents an article or a self-contained piece of content.
+
+<section> - Represents a generic section of a document.
+
+<aside> - Represents content that is tangentially related to the content around it.
+
+<main> - Represents the main content of the document.
+
+<figure> - Represents any content that is referenced from the main content, often with a caption.
+
+<figcaption> - Represents a caption or legend for a <figure> element.
+
+<ul> - Defines an unordered list.
+
+<ol> - Defines an ordered list.
+
+<li> - Defines a list item within a list.
+
+<dl> - Defines a description list.
+
+<dt> - Defines a term or name in a description list.
+
+<dd> - Defines the description of a term in a description list.
+
+<table> - Defines a table.
+
+<tr> - Defines a table row.
+
+<th> - Defines a header cell in a table.
+
+<td> - Defines a data cell in a table.
+
+<form> - Defines an HTML form for user input.
+
+<input> - Defines an input field within a form.
+
+<label> - Defines a label for an <input> element.
+
+<button> - Defines a clickable button.
+
+<select> - Defines a drop-down list.
+
+<option> - Defines an option in a <select> dropdown.
+
+<textarea> - Defines a multiline text input control.
+
+<b> - Bold text
+<strong> - Important text
+<i> - Italic text
+<em> - Emphasized text
+<mark> - Marked text
+<small> - Smaller text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
